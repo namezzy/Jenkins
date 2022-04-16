@@ -1,5 +1,4 @@
 # Jenkins
 
-
-Hello World
-1111
+Reset password of Jenkins is successful.  
+so happy.
